@@ -10,6 +10,7 @@ from dotenv import load_dotenv
 # Load environment variables from .env file
 load_dotenv()
 
+# added new comment
 # Get the Groq API key from environment variables
 groq_api_key = "API KEY"
 
